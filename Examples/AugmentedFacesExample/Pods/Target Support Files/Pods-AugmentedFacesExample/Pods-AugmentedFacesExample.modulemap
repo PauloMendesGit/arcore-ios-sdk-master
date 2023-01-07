@@ -1,0 +1,6 @@
+framework module Pods_AugmentedFacesExample {
+  umbrella header "Pods-AugmentedFacesExample-umbrella.h"
+
+  export *
+  module * { export * }
+}
